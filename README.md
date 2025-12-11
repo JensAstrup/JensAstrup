@@ -42,7 +42,7 @@ enjoys using!
 
 ## Projects
 
-### [AstroYenz](https://github.com/orgs/AstroYenz/repositories)
+### [VoidWorksCo](https://github.com/orgs/VoidWorksCo/repositories)
 - **[Shortcut Assistant](https://github.com/AstroYenz/Shortcut-Assistant)**: My first TypeScript project, mainly for learning purposes.
 - **[Spades](https://spades.poker)**: An application for pointing poker sessions that integrates with Linear
 
