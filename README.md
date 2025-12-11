@@ -42,8 +42,8 @@ enjoys using!
 
 ## Projects
 
-### [VoidWorksCo](https://github.com/orgs/VoidWorksCo/repositories)
-- **[Shortcut Assistant](https://github.com/AstroYenz/Shortcut-Assistant)**: My first TypeScript project, mainly for learning purposes.
+### [VoidWorksIO](https://github.com/orgs/VoidWorksIO/repositories)
+- **[Shortcut Assistant](https://github.com/VoidWorksIO/Shortcut-Assistant)**: My first TypeScript project, mainly for learning purposes.
 - **[Spades](https://spades.poker)**: An application for pointing poker sessions that integrates with Linear
 
 ## Connect with Me
