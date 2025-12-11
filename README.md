@@ -44,7 +44,7 @@ enjoys using!
 
 ### [AstroYenz](https://github.com/orgs/AstroYenz/repositories)
 - **[Shortcut Assistant](https://github.com/AstroYenz/Shortcut-Assistant)**: My first TypeScript project, mainly for learning purposes.
-- **[Ace of Spades](https://aceofspades.app)**: An application for pointing poker sessions that integrates with Linear
+- **[Spades](https://spades.poker)**: An application for pointing poker sessions that integrates with Linear
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jensastrup/)
