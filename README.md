@@ -42,9 +42,13 @@ enjoys using!
 
 ## Projects
 
+## Personal
+- **[Shortcut API](https://github.com/JensAstrup/shortcut)**: SDK for the [Shortcut](https://shortcut.com) API
+
 ### [VoidWorksIO](https://github.com/orgs/VoidWorksIO/repositories)
 - **[Shortcut Assistant](https://github.com/VoidWorksIO/Shortcut-Assistant)**: My first TypeScript project, mainly for learning purposes.
 - **[Spades](https://spades.poker)**: An application for pointing poker sessions that integrates with Linear
+- **[GBx](https://apps.apple.com/us/app/gbx/id6749517571)**: A harm reduction iOS app
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/jensastrup/)
