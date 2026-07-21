@@ -32,14 +32,6 @@ enjoys using!
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## GitHub Stats
-
-![JensAstrup's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JensAstrup&show_icons=true&theme=radical)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JensAstrup&layout=compact&theme=radical)
-
 ## Projects
 
 ## Personal
