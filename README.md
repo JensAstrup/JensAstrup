@@ -34,7 +34,7 @@ enjoys using!
 
 ## Projects
 
-## Personal
+### Personal
 - **[Shortcut API](https://github.com/JensAstrup/shortcut)**: SDK for the [Shortcut](https://shortcut.com) API
 
 ### [VoidWorksIO](https://github.com/orgs/VoidWorksIO/repositories)
